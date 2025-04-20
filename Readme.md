@@ -37,3 +37,22 @@ Converte as faixas em valores e calcula a resistência usando a fórmula: resist
 Formata a saída usando K (mil), M (milhão), ou G (bilhão), se aplicável.
 
 Exibe a resistência calculada e a tolerância.
+
+- - - 
+
+### exercicio-3
+
+Este é um projetinho simples feito em Java que simula a criação de um tabuleiro do jogo Batalha Naval. O tabuleiro tem tamanho 10x10, e os navios são posicionados de forma aleatória, sem sobreposição.
+
+#### Como funciona: 
+
+1. Cada navio é colocado aleatoriamente no tabuleiro (na vertical ou horizontal)
+2. O código evita que os navios fiquem por cima uns dos outros
+3. O resultado é impresso no terminal com o símbolo dos navios ou . para os espaços vazios
+
+- - -
+
+### exercicio-4
+
+Este é um programa básico em Java que verifica se um tabuleiro de Batalha Naval é válido. Ele lê a entrada de um arquivo de texto e confere se o tabuleiro tem o tamanho correto (10x10), se contém apenas navios conhecidos e se há exatamente um de cada tipo.
+
